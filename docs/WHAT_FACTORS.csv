@@ -1,0 +1,8 @@
+object,factors,status
+Jac(F),yes tensor of three Jac(W),closed dim 15625
+Aut(F),yes product of groups,closed order 27000
+c-hat(F),yes sum of charges,closed c-hat=4
+genus-0 ring of one block,Fan-Shen program gcd=2,dims 25/26 not structure constants
+Hodge integrals of one block,Guere applies to the chain,formula yes numbers not run
+correlators of F,NOT a product of block correlators,open
+H^{2,2} class on V(F),no,not produced
