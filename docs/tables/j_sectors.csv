@@ -1,5 +1,5 @@
 g,type,dim_H_g,age,geometry
-1,broad,2605 = dim Jac(F)^J,0,primitive Hodge
+1,broad,2605,0,primitive Hodge
 J,narrow,1,1,1 in H^0
 J^2,narrow,1,2,omega in H^2
 J^3,narrow,1,3,omega^2 in H^4
