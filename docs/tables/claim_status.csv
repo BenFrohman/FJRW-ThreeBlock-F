@@ -1,0 +1,7 @@
+claim,status
+"dim Jac(F)^J = 2605 with Hilbert (1,426,1751,426,1)","closed, arithmetic of this F"
+"those dimensions equal primitive Hodge of a smooth sextic fourfold","closed by Griffiths 1968-69, not by this lab"
+"identity-sector pairing of one block (42 triples)","closed as a Jacobian computation"
+"every class in H^{2,2}(V(F)) is algebraic","not closed — Hodge on this fourfold; written span is Q h^2 + Q[Π]"
+"Delta_miss(V(F)) nonempty","empty — Term B still has no gamma"
+"for all fourfolds X, Hdg^2 subset im(cl)","empty — Term A still has no CycleSection for every D"
