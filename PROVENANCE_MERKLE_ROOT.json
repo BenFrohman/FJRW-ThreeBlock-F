@@ -1,0 +1,145 @@
+{
+  "schema": "sealguard-merkle-provenance-v1.0",
+  "repository": "BenFrohman/FJRW-ThreeBlock-F",
+  "doi": "10.5281/zenodo.23652984",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "merkle_root_sha256": "177e4a6e1aec90be87de21d0c4e87d630bc0d8aa09930b8062dc2d0866ec218b",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "4da50800b0bdb0381e26a9fb7e93ea5b78ee3dc4c7a3ff0826fdf1fc6908f627afe4540dde0067685d0adab20bf85c87d844edb2fc294d8b24aad395b0d6fb05",
+  "leaf_count": 26,
+  "leaves": [
+    {
+      "path": ".zenodo.json",
+      "sha256": "55706c6531ce4dda7a69f16856deadbb35dcebba6f3b1127fb6d1fe49f2daa8c",
+      "bytes": 1383
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "1732529c9d516b14378c2ea60b7a29a9dd01385bb5f302efa163c42b3dceb130",
+      "bytes": 320
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "cc0fc172c4a9f76387906dc08f5ab359e4e2ee77c57204accaea7d42ba3a9fc3",
+      "bytes": 627
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ec43eec7417d548fb78a8dc50830f1d854b91a89c2daf0d4e957601515c15e87",
+      "bytes": 10773
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "f3fcfe631d282867667ad2b08ff866e6504c8f533f0887773d3cce11fd81934b",
+      "bytes": 596
+    },
+    {
+      "path": "PROBLEM.md",
+      "sha256": "daa906cefad1494dd7110dbb1653c1c3ef92e9ab1224fb15d69d8996a8ac4a52",
+      "bytes": 2945
+    },
+    {
+      "path": "README.md",
+      "sha256": "f0942e3c5498a5fb3c41d71d5ddc32600e9a17f59d9c814a4f639fa6df3687d9",
+      "bytes": 1912
+    },
+    {
+      "path": "RECONSTRUCTION.md",
+      "sha256": "d1a4cee1c06f4729a23b384045bce172e7157d3caf9cd4b4461c8103c708b521",
+      "bytes": 2376
+    },
+    {
+      "path": "RECONSTRUCTION_THEOREMS.md",
+      "sha256": "7709d3469990202942f392eee3e64376f202745ea86782080ef550ff3d8c0ce7",
+      "bytes": 3260
+    },
+    {
+      "path": "RING_RECONSTRUCTION.md",
+      "sha256": "08ca8ec2d8d7f467a87626fb50a9dedaff85c5d810c71eaee27f68772f3d9bd5",
+      "bytes": 2529
+    },
+    {
+      "path": "TWO_GROUPS.md",
+      "sha256": "5d70d8d27bc0d78451783cf7c7f01a1e512ba7d3fbc481b2ecc2f8bda0a3373d",
+      "bytes": 1996
+    },
+    {
+      "path": "audit/TITAN_AUDIT_CERTIFICATE.json",
+      "sha256": "c95630c19ec25a9d1ae203b5bf06ab2d6e6edb51d0803ccf2e2b52b6c49d1f26",
+      "bytes": 671
+    },
+    {
+      "path": "docs/ALL_CLOSED_CLAIMS.md",
+      "sha256": "5d03032985b22cc262190835a16baffaccf5020df2c5175a5fa04478d7dfa980",
+      "bytes": 2411
+    },
+    {
+      "path": "docs/CLOSED_CLAIMS.md",
+      "sha256": "7858201a5a9f63d90a6b5510a53490ce68bf946dc7c98f5579179b4cda952208",
+      "bytes": 2343
+    },
+    {
+      "path": "docs/HILBERT_VS_HODGE.md",
+      "sha256": "54e680517c00263853bc1be1419835b878bd9031dccfcd589dcd7e1121a6615d",
+      "bytes": 2106
+    },
+    {
+      "path": "docs/J_SECTORS.md",
+      "sha256": "605d7f4fbb4b3df56ee59fb4b4f63b9d450148511d6111804e5bff41ff8ad877",
+      "bytes": 3345
+    },
+    {
+      "path": "docs/STATE_SPACE_VS_CORRELATORS.md",
+      "sha256": "2b30e16509529b8846aad5e123b7008a924776f7410f9aec8bf8e77c0edd0a0e",
+      "bytes": 662
+    },
+    {
+      "path": "docs/WHAT_FACTORS.csv",
+      "sha256": "78d93e8e0f84eebdfc06bae5d57e6e3582b3a8115e87087838bd057d15656242",
+      "bytes": 502
+    },
+    {
+      "path": "docs/tables/claim_status.csv",
+      "sha256": "92a6615795e054a85b0be1ef4b74a5cdb35760449c589d5b4f7826876f57b7c7",
+      "bytes": 582
+    },
+    {
+      "path": "docs/tables/closed_claims.csv",
+      "sha256": "5621a38275619a5dfdf50bb98c5b962abbf27bcda87c0f3baeb75cbfedc193cd",
+      "bytes": 529
+    },
+    {
+      "path": "docs/tables/j_sectors.csv",
+      "sha256": "85cc759c3d05675da5a305213ffd587cdc722625bb348bf960d61511d85a07e2",
+      "bytes": 199
+    },
+    {
+      "path": "docs/tables/three_points_W_full.csv",
+      "sha256": "ad3c45d336490b67c325c0ee97463bbfe0476fb914f025852ba98a7c5762c51f",
+      "bytes": 652
+    },
+    {
+      "path": "docs/three_points_W.csv",
+      "sha256": "58a50bf7a25873291edbde914b5b659891849d32d34d70420a3c183d762d0740",
+      "bytes": 602
+    },
+    {
+      "path": "docs/three_points_W_seed.csv",
+      "sha256": "af704fb95d9a52ec0310e9c20e139876339db1affc478db4dee6fef2d7b45fda",
+      "bytes": 128
+    },
+    {
+      "path": "paper/FJRW_ThreeBlock_F_Technical_Monograph_2026.pdf",
+      "sha256": "3b979fe43210de9bdcf6688cba487dcf3dc1b27fdf6c32d14484107cbe0d527d",
+      "bytes": 49038
+    },
+    {
+      "path": "paper/FJRW_ThreeBlock_F_Technical_Monograph_2026.tex",
+      "sha256": "365661677f55a75def3e4aba1877061dfd78a47ac7688376e1e7be07b66de367",
+      "bytes": 5234
+    }
+  ]
+}

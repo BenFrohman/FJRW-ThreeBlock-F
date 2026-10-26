@@ -1,0 +1,103 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue}
+
+\title{\textbf{FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W}}
+\author{Benjamin Stanley Frohman\\
+\small ORCID: \href{https://orcid.org/0009-0006-7068-3718}{0009-0006-7068-3718} \quad|\quad
+GitHub: \href{https://github.com/BenFrohman/FJRW-ThreeBlock-F}{\texttt{BenFrohman/FJRW-ThreeBlock-F}}\\
+\small Dedicated 1-to-1 Zenodo DOI: \href{https://doi.org/10.5281/zenodo.23652984}{\texttt{10.5281/zenodo.23652984}}}
+\date{Earliest Commit Provenance: 2026-09-25 03:31:31 PM CDT (UTC-5)\\
+Siloed Archival Edition: October 25, 2026 (America/Chicago CDT)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Standalone dataset and formal problem specification (`docs/PROBLEM.md`, `docs/RECONSTRUCTION\_BOUNDARY.md`, `docs/WHAT\_THIS\_IS\_NOT.md`, `tables/block\_comparison.csv`, `tables/not\_closed\_by\_concavity.csv`) for the Fan-Jarvis-Ruan-Witten (FJRW) cohomological field theory of the three-block Thom-Sebastiani sextic polynomial F = W (+) W (+) W with chain atom W = u\textasciicircum{}5 v + v\textasciicircum{}6.
+\end{abstract}
+
+\section{Scope, Scientific Honesty, and Non-Claim Boundary}
+Defines the three-block FJRW problem and explicitly tabulates the correlators that lie beyond pure concavity axioms; does not claim an unproved closed-form evaluation of open mixed correlators.
+
+\begin{itemize}
+  \item \textbf{Repository:} \texttt{https://github.com/BenFrohman/FJRW-ThreeBlock-F}
+  \item \textbf{Dedicated 1-to-1 Zenodo DOI:} \texttt{10.5281/zenodo.23652984}
+  \item \textbf{Earliest Git Commit SHA:} \texttt{515ac1028fa0c5a4f678e7b47221c7d7244fbbd9} (2026-09-25 03:31:31 PM CDT (UTC-5))
+  \item \textbf{License \& Copyright:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.
+\end{itemize}
+
+\section{Technical Overview \& Repository Specification}
+Author: Benjamin Stanley Frohman (@BenFrohman)
+
+Copyright (c) 2026 Benjamin Stanley Frohman. Apache-2.0. Public.
+
+This repo states one problem. It does not solve it.
+
+Atom lab: [BenFrohman/SingularityLab](https://github.com/BenFrohman/SingularityLab)
+
+W = u\textasciicircum{}5 v + v\textasciicircum{}6 = X\textasciicircum{}5 Y + Y\textasciicircum{}6
+
+μ(W) = 25,   |Aut(W)| = 30,   ĉ = 4/3
+
+Guéré's chain formula applies to this W. Fan–Shen labels (p,q)=(5,6), gcd(4,6)=2.
+
+F = W(x0,x3) + W(x1,x4) + W(x2,x5)  ⊂ P\textasciicircum{}5
+
+Jac(F) ≅ Jac(W)\textasciicircum{}\{⊗ 3\}     dim 15625
+
+Aut(F) ≅ Aut(W)\textasciicircum{}3          order 27000
+
+ĉ(F) = 4
+
+State spaces tensor. Correlators do not.
+
+See [PROBLEM.md](PROBLEM.md).
+
+No Guéré table is claimed. No Hodge miss. Not Term B.
+
+\section{Cryptographic Provenance \& File Inventory}
+Every source artifact in \texttt{BenFrohman/FJRW-ThreeBlock-F} is audited via \texttt{titan-audit}
+(\texttt{audit/TITAN\_AUDIT\_CERTIFICATE.json}) and sealed under a deterministic SHA-256 Merkle tree via
+\texttt{sealguard} (\texttt{PROVENANCE\_MERKLE\_ROOT.json}) signed with Ed25519 key fingerprint
+\texttt{b428fb72676f1c52}.
+
+\begin{center}
+\small
+\begin{tabular}{p{0.52\textwidth}rr}
+\toprule
+\textbf{Repository Path} & \textbf{Size} & \textbf{SHA-256 Prefix} \\
+\midrule
+\texttt{LICENSE} & 11355 B & \texttt{9da72c2bee4f20ba...} \\
+\texttt{NOTICE} & 329 B & \texttt{4ae3fd4ee9a1e1b8...} \\
+\texttt{PROBLEM.md} & 2945 B & \texttt{daa906cefad1494d...} \\
+\texttt{README.md} & 778 B & \texttt{49b525fe8a776cba...} \\
+\texttt{RECONSTRUCTION.md} & 2376 B & \texttt{d1a4cee1c06f4729...} \\
+\texttt{RECONSTRUCTION\_THEOREMS.md} & 3260 B & \texttt{7709d34699902029...} \\
+\texttt{RING\_RECONSTRUCTION.md} & 2529 B & \texttt{08ca8ec2d8d7f467...} \\
+\texttt{TWO\_GROUPS.md} & 1996 B & \texttt{5d70d8d27bc0d784...} \\
+\texttt{docs/ALL\_CLOSED\_CLAIMS.md} & 2411 B & \texttt{5d03032985b22cc2...} \\
+\texttt{docs/CLOSED\_CLAIMS.md} & 2343 B & \texttt{7858201a5a9f63d9...} \\
+\texttt{docs/HILBERT\_VS\_HODGE.md} & 2106 B & \texttt{54e680517c002638...} \\
+\texttt{docs/J\_SECTORS.md} & 3345 B & \texttt{605d7f4fbb4b3df5...} \\
+\texttt{docs/STATE\_SPACE\_VS\_CORRELATORS.md} & 662 B & \texttt{2b30e16509529b88...} \\
+\texttt{docs/WHAT\_FACTORS.csv} & 502 B & \texttt{78d93e8e0f84eebd...} \\
+\texttt{docs/tables/claim\_status.csv} & 582 B & \texttt{92a6615795e054a8...} \\
+\texttt{docs/tables/closed\_claims.csv} & 529 B & \texttt{5621a38275619a5d...} \\
+\texttt{docs/tables/j\_sectors.csv} & 199 B & \texttt{85cc759c3d05675d...} \\
+\texttt{docs/tables/three\_points\_W\_full.csv} & 652 B & \texttt{ad3c45d336490b67...} \\
+\texttt{docs/three\_points\_W.csv} & 602 B & \texttt{58a50bf7a2587329...} \\
+\texttt{docs/three\_points\_W\_seed.csv} & 128 B & \texttt{af704fb95d9a52ec...} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vfill
+\noindent\rule{\textwidth}{0.4pt}\\
+\footnotesize
+\textbf{Attribution \& Licensing Notice:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman (ORCID: \texttt{0009-0006-7068-3718}).
+Licensed under the Apache License, Version 2.0.
+\end{document}

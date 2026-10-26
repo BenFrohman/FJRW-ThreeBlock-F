@@ -1,0 +1,28 @@
+{
+  "title": "FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W",
+  "upload_type": "dataset",
+  "description": "Standalone dataset and formal problem specification (`docs/PROBLEM.md`, `docs/RECONSTRUCTION_BOUNDARY.md`, `docs/WHAT_THIS_IS_NOT.md`, `tables/block_comparison.csv`, `tables/not_closed_by_concavity.csv`) for the Fan-Jarvis-Ruan-Witten (FJRW) cohomological field theory of the three-block Thom-Sebastiani sextic polynomial F = W (+) W (+) W with chain atom W = u^5 v + v^6. Defines the three-block FJRW problem and explicitly tabulates the correlators that lie beyond pure concavity axioms; does not claim an unproved closed-form evaluation of open mixed correlators. Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "FJRW theory",
+    "Thom-Sebastiani sum",
+    "Quasihomogeneous singularities",
+    "Cohomological field theory",
+    "WDVV equations",
+    "Concavity and chain atoms"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/FJRW-ThreeBlock-F",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

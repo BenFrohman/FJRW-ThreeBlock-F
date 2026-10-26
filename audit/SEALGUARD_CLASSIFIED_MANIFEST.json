@@ -1,0 +1,13 @@
+{
+  "schema": "sealguard-manifest-v1.0",
+  "repository": "BenFrohman/FJRW-ThreeBlock-F",
+  "doi": "10.5281/zenodo.23652984",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "public_surface_policy": "VERIFIED_PUBLIC_SURFACE_ONLY",
+  "classified_ip_redaction": "ACTIVE_ZERO_LEAKAGE",
+  "merkle_root_sha256": "177e4a6e1aec90be87de21d0c4e87d630bc0d8aa09930b8062dc2d0866ec218b",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "4da50800b0bdb0381e26a9fb7e93ea5b78ee3dc4c7a3ff0826fdf1fc6908f627afe4540dde0067685d0adab20bf85c87d844edb2fc294d8b24aad395b0d6fb05"
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "titan-audit-v1.0",
+  "repository": "BenFrohman/FJRW-ThreeBlock-F",
+  "doi": "10.5281/zenodo.23652984",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "lean_module_count": 0,
+  "sorry_count": 0,
+  "modules": [],
+  "verdict": "PASS_ZERO_SORRY_HONEST_BOUNDARY",
+  "payload_sha256": "c5def29bcb74aeeaa423ebf7c5ad2de4030d0e507ab6118f378e7c83bc5f403c",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "53dc4af9aea41093ea904281a3de8a85f7f317b54aa0b6d8ee6454f2c2fc85b4fcde7edf7acc69d9b4888a890a9fdd82f057797ebc0868694b2070db16d6f609"
+}
