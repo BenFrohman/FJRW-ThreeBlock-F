@@ -39,3 +39,9 @@ No Guéré table is claimed. No Hodge miss. Not Term B.
 - **SealGuard SHA-256 Merkle Root:** `177e4a6e1aec90be87de21d0c4e87d630bc0d8aa09930b8062dc2d0866ec218b` (`PROVENANCE_MERKLE_ROOT.json`)
 - **Titan Audit Certificate:** `audit/TITAN_AUDIT_CERTIFICATE.json` (Ed25519 key `b428fb72676f1c52`)
 - **Scope & Scientific Boundary:** Defines the three-block FJRW problem and explicitly tabulates the correlators that lie beyond pure concavity axioms; does not claim an unproved closed-form evaluation of open mixed correlators.
+
+## Zenodo archive
+
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652983.svg)](https://doi.org/10.5281/zenodo.23652983) FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W — all versions: [10.5281/zenodo.23652983](https://doi.org/10.5281/zenodo.23652983); latest version: [10.5281/zenodo.23652984](https://doi.org/10.5281/zenodo.23652984)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23632795.svg)](https://doi.org/10.5281/zenodo.23632795) Block-Diagonal Three-Block FJRW State Spaces, WDVV Reconstruction Boundaries, and S-Unit Arithmetic Seed Corrections — all versions: [10.5281/zenodo.23632795](https://doi.org/10.5281/zenodo.23632795); latest version: [10.5281/zenodo.23632796](https://doi.org/10.5281/zenodo.23632796)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867537.svg)](https://doi.org/10.5281/zenodo.23867537) FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W — all versions: [10.5281/zenodo.23867537](https://doi.org/10.5281/zenodo.23867537); latest version: [10.5281/zenodo.23867538](https://doi.org/10.5281/zenodo.23867538)
