@@ -45,3 +45,7 @@ No Guéré table is claimed. No Hodge miss. Not Term B.
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652983.svg)](https://doi.org/10.5281/zenodo.23652983) FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W — all versions: [10.5281/zenodo.23652983](https://doi.org/10.5281/zenodo.23652983); latest version: [10.5281/zenodo.23652984](https://doi.org/10.5281/zenodo.23652984)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23632795.svg)](https://doi.org/10.5281/zenodo.23632795) Block-Diagonal Three-Block FJRW State Spaces, WDVV Reconstruction Boundaries, and S-Unit Arithmetic Seed Corrections — all versions: [10.5281/zenodo.23632795](https://doi.org/10.5281/zenodo.23632795); latest version: [10.5281/zenodo.23632796](https://doi.org/10.5281/zenodo.23632796)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867537.svg)](https://doi.org/10.5281/zenodo.23867537) FJRW-ThreeBlock-F: Problem Statement and Reconstruction Boundary Tables for the Three-Block Thom-Sebastiani Sum F = W + W + W — all versions: [10.5281/zenodo.23867537](https://doi.org/10.5281/zenodo.23867537); latest version: [10.5281/zenodo.23867538](https://doi.org/10.5281/zenodo.23867538)
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Zenodo DOI: [10.5281/zenodo.23652984](https://doi.org/10.5281/zenodo.23652984).
